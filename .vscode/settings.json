@@ -1,4 +1,11 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
+    "java.project.sourcePaths": [
+        "src",
+        ".vscode\\src\\tuan09"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        ".vscode\\src\\Kiemtragiuaki\\lab1\\Nguoi.java"
+    ]
 }
