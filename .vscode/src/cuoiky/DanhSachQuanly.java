@@ -24,4 +24,3 @@ public class DanhSachQuanLy {
             System.out.println(hangHoa);
         }
     }
-}

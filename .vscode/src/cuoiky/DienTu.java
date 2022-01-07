@@ -9,4 +9,4 @@ public class DienTu extends HangHoa{
         super(maHangHoa, loaiHangHoa, tenHangHoa, giaNhap, ngayNhapKho, soLuongTonKho);
         count++;
     }
-}
+} 

@@ -31,7 +31,7 @@ public class ThongKeHangHoa {
     public void soLuongHangDienTu(DanhSachQuanLy dsql) {
         System.out.println("So luong hang dien tu " + DienTu.count);
     }
-
+ 
     // tong so luong hang sanh su
     public void soLuongHangSanhSu(DanhSachQuanLy dsql) {
         System.out.println("So luong hang sanh su: " + SanhSu.count);

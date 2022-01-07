@@ -25,7 +25,7 @@ public class ThemHangHoa {
                         int g = sc.nextInt();
                         sc.nextLine();
                         // cap nhap lai time theo thoi gian thuc
-                        LayNgayGioHienTai d = new LayNgayGioHienTai();
+                        LayNgayGioHienTai d = new LayNgayGioHienTai(); 
                         String ngay = d.layThoiGianHienTai();
                         System.out.print("Nhap so luong ton kho: ");
                         int sl = sc.nextInt();

@@ -23,7 +23,7 @@ public class sanhsu extends HangHoa{
         s = super.toString() + String.format("%-20s|%-20s|", getNoiSanxuat(),df.format(thanhToan()));
         return s;
     }
-    private Object thanhToan() {
+    private Object thanhToan() { 
         return null;
     }
     

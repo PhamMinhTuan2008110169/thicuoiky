@@ -104,7 +104,7 @@ public class SuaXoaHangHoa {
                     break;
                 } else
                     break;
-            } else {
+            } else { 
                 if (i + 1 == dsql.getDanhSachHangHoa().size()) {
                     System.out.println("Ma hang hoa khong ton tai");
                 }

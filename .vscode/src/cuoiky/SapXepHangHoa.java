@@ -25,7 +25,7 @@ public class SapXepHangHoa {
     }
 
 
-    // gia giam dan
+    // gia giam dan 
     public void giaGiamDan(DanhSachQuanLy dsql) {
         Collections.sort(dsql.getDanhSachHangHoa(), new Comparator<HangHoa>() {
 

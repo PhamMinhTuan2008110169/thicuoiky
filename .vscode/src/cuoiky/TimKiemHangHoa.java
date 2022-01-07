@@ -27,7 +27,7 @@ public class TimKiemHangHoa {
                 }
             }
         }
-    
+     
         public void timKiemTheoNgay(DanhSachQuanLy dsql, Scanner sc) {
             System.out.print("Tim tu ngay: ");
             String ngay1 = sc.nextLine();
