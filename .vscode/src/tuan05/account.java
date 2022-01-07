@@ -1,4 +1,4 @@
-package tuan05;
+package tuan05.account;
 
 public class account {
     int accout_number ;

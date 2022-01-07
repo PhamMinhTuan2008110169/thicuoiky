@@ -65,3 +65,46 @@ src/Kiemtragiuaki/lab1/NhanVien.java
 .vscode/src/Kiemtragiuaki/lab1/HocVien.java
 .vscode/src/Kiemtragiuaki/lab1/NhanVien.java
 .vscode/src/Kiemtragiuaki/lab1/Kiemtragiuaki/lab1/Nguoi.java
+.vscode/src/baiaptailop/shape.java
+.vscode/src/tuan05/account.java
+.vscode/src/tuan05/account.java
+.vscode/src/App.java
+.vscode/src/tuan05/account.java
+.vscode/src/App.java
+.vscode/src/tuan05/account.java
+.vscode/scrv/hanghoa.java
+.vscode/src/App.java
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+.vscode/src/App.java
+.vscode/src/tuan05/account.java
+.vscode/scrv/HHdienmay.java
+.gitignore
+.vscode/scrv/hanghoa.java
+.vscode/scrv/HHkhoHangHoa.java
+.vscode/scrv/HHsanhsu.java
+.vscode/scrv/HHthucpham.java
+.vscode/scrv/menu.java
